@@ -33,5 +33,4 @@ Para ejecutar el script bash Basic-Tools se debe seguir estos pasos:
 # Thank you for using OffShell System software.
 # Gracias por usar OffShell System Software.
 # OffShell System. Technological soul. Computer passion. Thanks for use our programs.
-# Visit the OffShell System Blog: https://offshellsystem.blogspot.com/
-# Facebook: https://www.facebook.com/offshell.system
+# Visit the OffShell System Blog: www.offshellsystem.tk
