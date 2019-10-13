@@ -31,6 +31,8 @@ Para ejecutar el script bash Basic-Tools se debe seguir estos pasos:
     3- Iniciar el script o programa con el comando "./Basic-Tools.sh"
     --Se recomienda ejecutar el programa en ROOT.
 # Thank you for using OffShell System software.
-# Gracias por usar OffShell System Software.
 # OffShell System. Technological soul. Computer passion. Thanks for use our programs.
 # Visit the OffShell System Blog: www.offshellsystem.tk
+# ¿Que tal un café?
+Si te gustan mis Scripts, puedes invitarme a un café para animarme a seguir publicando más.
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=EERJ8BWALEMUG&source=url
